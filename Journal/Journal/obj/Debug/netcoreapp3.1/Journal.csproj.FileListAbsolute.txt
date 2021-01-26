@@ -1,0 +1,12 @@
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/bin/Debug/netcoreapp3.1/Journal.deps.json
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/bin/Debug/netcoreapp3.1/Journal.runtimeconfig.json
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/bin/Debug/netcoreapp3.1/Journal.runtimeconfig.dev.json
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/bin/Debug/netcoreapp3.1/Journal.dll
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/bin/Debug/netcoreapp3.1/Journal.pdb
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.csprojAssemblyReference.cache
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.AssemblyInfoInputs.cache
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.AssemblyInfo.cs
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.csproj.CoreCompileInputs.cache
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.dll
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.pdb
+/Users/andrelouiz/Downloads/Projects/Journal/Journal/obj/Debug/netcoreapp3.1/Journal.genruntimeconfig.cache
